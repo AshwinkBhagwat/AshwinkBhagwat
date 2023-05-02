@@ -1,9 +1,14 @@
+Hi  I'm Ashwinkumar Bhagwat.
+I'm an aspiring Data Analyst with keen interest in handling and manipulating the data and providing the best possible insight on the same.
+
+<div align="center">
+  <img height="500" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif"  />
+</div>
+
+
 # 💫 About Me:
 👀Aspiring Data Analyst with a passion for drawing meaningful insights from data<br>🔭Currently focused on developing Machine Learning skills<br>🌱Enthusiastic about discovering the intricacies in data<br> Projects showcasing skills are available on GitHub at AshwinkBhagwat<br>🤔Committed to making a mark in the Data Analytics field<br><br>
 
-<div align="Right">
-  <img height="150" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif"  />
-</div>
 
 
 ## 🌐 Socials:
