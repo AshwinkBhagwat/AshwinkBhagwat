@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinkbhagwat&show_icons=true&locale=en" alt="ashwinkbhagwat" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=AshwinkBhagwat&label=Profile%20Views&color=10&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
