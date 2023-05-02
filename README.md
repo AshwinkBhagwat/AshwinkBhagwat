@@ -2,7 +2,7 @@ Hi  I'm Ashwinkumar Bhagwat.
 I'm an aspiring Data Analyst with keen interest in handling and manipulating the data and providing the best possible insight on the same.
 
 <div align="center">
-  <img height="400" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif"  />
+  <img height="300" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif"  />
 </div>
 
 
@@ -23,7 +23,7 @@ I'm an aspiring Data Analyst with keen interest in handling and manipulating the
 
 ### ✍️ Random  Quote
 <div align="center">
-  <img height="250" src="[https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/hilary-mason-data-quote.jpg)"  />
+  <img height="250" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/hilary-mason-data-quote.jpg"  />
 </div>
 
 ---
