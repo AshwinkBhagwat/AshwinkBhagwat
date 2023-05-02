@@ -1,7 +1,7 @@
 # 💫 About Me:
 👀Aspiring Data Analyst with a passion for drawing meaningful insights from data<br>🔭Currently focused on developing Machine Learning skills<br>🌱Enthusiastic about discovering the intricacies in data<br> Projects showcasing skills are available on GitHub at AshwinkBhagwat<br>🤔Committed to making a mark in the Data Analytics field<br><br>
 
-<div align="center">
+<div align="Right">
   <img height="400" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif"  />
 </div>
 
@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AshwinkBhagwat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinkBhagwat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
