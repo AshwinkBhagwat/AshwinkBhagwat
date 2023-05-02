@@ -1,5 +1,5 @@
-Hi  I'm Ashwinkumar Bhagwat.
-I'm an aspiring Data Analyst with keen interest in handling and manipulating the data and providing the best possible insight on the same.
+<h1 align="center">Hi 👋, I'm Ashwinkumar Bhagwat</h1>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <div align="center">
   <img height="300" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif"  />
